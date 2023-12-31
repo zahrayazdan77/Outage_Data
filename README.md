@@ -1,2 +1,2 @@
 # Outage_Data
-The outage dataset of the distribution company
+The feeder-scale outage dataset and the sub-transmission substations feature of the distribution company are included in this repository. 
